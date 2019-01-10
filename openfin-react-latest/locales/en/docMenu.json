@@ -1,16 +1,34 @@
 {
   "start":"Get started",
-  "startInstallation":"Installation",
+  "startInstallation":"Installer",
   "startDevelopers":"For developers",
   "startFaq":"FAQ",
 
   "scaffolding":"AL-CLI",
   "scaffoldingInstall":"Installation",
+  "scaffoldingGenrPrj":"Generating projects",
+  "scaffoldingStandalonePkg":"Standalone Package",
+  "scaffoldingGenrTpl":"Generating templates",
 
   "browserAdaptor":"Browser Adaptor",
+  "browserAdaptorInstall":"Install BA",
+  "browserAdaptorUsecases":"BA user cases",
 
   "reduxOpenfin":"Redux Openfin",
+  "reduxOpenfinInstall":"Install redux-openfin",
+  "reduxOpenfinCommPatt":"Common pattern",
+  "reduxOpenfinSupportApis":"Supported Apis",
+  "reduxOpenfinSharedActions":"Sharing actions",
+  "reduxOpenfinSnapDock":"Snap&dock",
 
-  "about":"About"
+  "starterBase":"Starter kit",
+  "starterBaseComps":"Components",
+  "starterBaseReduxs":"Reduxs",
+  "starterBaseStyles":"Styles",
+  "starterBaseWhyTs":"Why typescript?",
+
+  "about":"About",
+  "aboutCollaborators":"Collaborators",
+  "aboutThanks":"Thanks"
 
 }
