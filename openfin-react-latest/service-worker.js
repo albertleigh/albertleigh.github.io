@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://albertleigh.github.io/openfin-react-latest/precache-manifest.23f23eae0bcb8821fda0ed613ce620a2.js"
+  "https://albertleigh.github.io/openfin-react-latest/precache-manifest.49e6c98da621ab4661702121561180a3.js"
 );
 
 workbox.clientsClaim();

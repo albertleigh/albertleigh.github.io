@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "b6836c40eb905871ee5cc94192c3e190",
-    "url": "https://albertleigh.github.io/openfin-react-latest/static/media/database-gears.b6836c40.svg"
+    "revision": "546aeb0eaac8bb21257d05c7b713a13a",
+    "url": "https://albertleigh.github.io/openfin-react-latest/static/media/settings.546aeb0e.svg"
   },
   {
-    "revision": "8f8528a0c4b1700ff405",
+    "revision": "92fd818ea92c1074c97f",
     "url": "https://albertleigh.github.io/openfin-react-latest/static/css/main.d6f78270.chunk.css"
   },
   {
-    "revision": "5944f5eb7dd688d077eb",
-    "url": "https://albertleigh.github.io/openfin-react-latest/static/js/1.5944f5eb.chunk.js"
+    "revision": "cba0c065eb37f996f39f",
+    "url": "https://albertleigh.github.io/openfin-react-latest/static/js/1.cba0c065.chunk.js"
   },
   {
     "revision": "251f117c6a4a62336511",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "https://albertleigh.github.io/openfin-react-latest/static/media/united-states.d37f770a.svg"
   },
   {
-    "revision": "8f8528a0c4b1700ff405",
-    "url": "https://albertleigh.github.io/openfin-react-latest/static/js/main.8f8528a0.chunk.js"
+    "revision": "b6836c40eb905871ee5cc94192c3e190",
+    "url": "https://albertleigh.github.io/openfin-react-latest/static/media/database-gears.b6836c40.svg"
   },
   {
-    "revision": "546aeb0eaac8bb21257d05c7b713a13a",
-    "url": "https://albertleigh.github.io/openfin-react-latest/static/media/settings.546aeb0e.svg"
+    "revision": "92fd818ea92c1074c97f",
+    "url": "https://albertleigh.github.io/openfin-react-latest/static/js/main.92fd818e.chunk.js"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -52,7 +52,19 @@ self.__precacheManifest = [
     "url": "https://albertleigh.github.io/openfin-react-latest/static/media/material-ui-logo.863b9d02.svg"
   },
   {
-    "revision": "ba28409e6faaaf60f63c24514a6eed61",
+    "revision": "b4f0b45f875395d5fd50a08c51b463c4",
+    "url": "https://albertleigh.github.io/openfin-react-latest/static/media/DefaultDeploy.b4f0b45f.svg"
+  },
+  {
+    "revision": "e2b22ba87cc3deaeb6bf0888a1fd1688",
+    "url": "https://albertleigh.github.io/openfin-react-latest/static/media/StandaloneDeploy.e2b22ba8.svg"
+  },
+  {
+    "revision": "2f4868dbd9be41e2300e289f3555a735",
+    "url": "https://albertleigh.github.io/openfin-react-latest/static/media/redux-openfin-deploy.2f4868db.svg"
+  },
+  {
+    "revision": "1580c74faadabf6ba3308407d2043f1a",
     "url": "https://albertleigh.github.io/openfin-react-latest/index.html"
   }
 ];
