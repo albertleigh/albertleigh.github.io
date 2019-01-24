@@ -22,9 +22,10 @@
   "reduxOpenfinSnapDock":"Snap&dock",
 
   "starterBase":"Starter kit",
-  "starterBaseComps":"Components",
+  "starterBaseFeatures":"Features",
   "starterBaseReduxs":"Reduxs",
-  "starterBaseStyles":"Styles",
+  "starterBaseComps":"Components",
+  "starterBaseRoutes":"Routes",
   "starterBaseWhyTs":"Why typescript?",
 
   "about":"About",
