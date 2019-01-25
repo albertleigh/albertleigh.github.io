@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "https://albertleigh.github.io/openfin-react-latest/static/media/settings.546aeb0e.svg"
   },
   {
-    "revision": "cdc58ebb9509911878e3",
+    "revision": "301cfb27e03eec868852",
     "url": "https://albertleigh.github.io/openfin-react-latest/static/css/main.561f9484.chunk.css"
   },
   {
-    "revision": "308ff9525ac1b78ae834",
-    "url": "https://albertleigh.github.io/openfin-react-latest/static/js/1.308ff952.chunk.js"
+    "revision": "17e96c01b1b34e690448",
+    "url": "https://albertleigh.github.io/openfin-react-latest/static/js/1.17e96c01.chunk.js"
   },
   {
     "revision": "251f117c6a4a62336511",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "https://albertleigh.github.io/openfin-react-latest/static/media/database-gears.b6836c40.svg"
   },
   {
-    "revision": "cdc58ebb9509911878e3",
-    "url": "https://albertleigh.github.io/openfin-react-latest/static/js/main.cdc58ebb.chunk.js"
+    "revision": "301cfb27e03eec868852",
+    "url": "https://albertleigh.github.io/openfin-react-latest/static/js/main.301cfb27.chunk.js"
   },
   {
     "revision": "3ff8d8ca4f31c47036ba9bf6cd315eb8",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "https://albertleigh.github.io/openfin-react-latest/static/media/redux-openfin-deploy.2f4868db.svg"
   },
   {
-    "revision": "ee705f7a525db529e98287ea7ed8c72c",
+    "revision": "9bbba919f4bef82543c297a92c1bb957",
     "url": "https://albertleigh.github.io/openfin-react-latest/index.html"
   }
 ];

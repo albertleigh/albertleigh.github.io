@@ -1,9 +1,9 @@
 {
   "main.css": "https://albertleigh.github.io/openfin-react-latest/static/css/main.561f9484.chunk.css",
-  "main.js": "https://albertleigh.github.io/openfin-react-latest/static/js/main.cdc58ebb.chunk.js",
-  "main.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/main.cdc58ebb.chunk.js.map",
-  "static/js/1.308ff952.chunk.js": "https://albertleigh.github.io/openfin-react-latest/static/js/1.308ff952.chunk.js",
-  "static/js/1.308ff952.chunk.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/1.308ff952.chunk.js.map",
+  "main.js": "https://albertleigh.github.io/openfin-react-latest/static/js/main.301cfb27.chunk.js",
+  "main.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/main.301cfb27.chunk.js.map",
+  "static/js/1.17e96c01.chunk.js": "https://albertleigh.github.io/openfin-react-latest/static/js/1.17e96c01.chunk.js",
+  "static/js/1.17e96c01.chunk.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/1.17e96c01.chunk.js.map",
   "runtime~main.js": "https://albertleigh.github.io/openfin-react-latest/static/js/runtime~main.251f117c.js",
   "runtime~main.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/runtime~main.251f117c.js.map",
   "static/media/redux-openfin-deploy.svg": "https://albertleigh.github.io/openfin-react-latest/static/media/redux-openfin-deploy.2f4868db.svg",
@@ -21,6 +21,6 @@
   "static/media/china.svg": "https://albertleigh.github.io/openfin-react-latest/static/media/china.c45d4a8f.svg",
   "static/css/main.561f9484.chunk.css.map": "https://albertleigh.github.io/openfin-react-latest/static/css/main.561f9484.chunk.css.map",
   "index.html": "https://albertleigh.github.io/openfin-react-latest/index.html",
-  "precache-manifest.857fcc5cad6eb9eba457abe6a7843243.js": "https://albertleigh.github.io/openfin-react-latest/precache-manifest.857fcc5cad6eb9eba457abe6a7843243.js",
+  "precache-manifest.4189e8c5b2fa1258ef42212d0c5fd86d.js": "https://albertleigh.github.io/openfin-react-latest/precache-manifest.4189e8c5b2fa1258ef42212d0c5fd86d.js",
   "service-worker.js": "https://albertleigh.github.io/openfin-react-latest/service-worker.js"
 }
