@@ -1,9 +1,9 @@
 {
-  "main.css": "https://albertleigh.github.io/openfin-react-latest/static/css/main.561f9484.chunk.css",
-  "main.js": "https://albertleigh.github.io/openfin-react-latest/static/js/main.301cfb27.chunk.js",
-  "main.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/main.301cfb27.chunk.js.map",
-  "static/js/1.17e96c01.chunk.js": "https://albertleigh.github.io/openfin-react-latest/static/js/1.17e96c01.chunk.js",
-  "static/js/1.17e96c01.chunk.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/1.17e96c01.chunk.js.map",
+  "main.css": "https://albertleigh.github.io/openfin-react-latest/static/css/main.2e76fb1d.chunk.css",
+  "main.js": "https://albertleigh.github.io/openfin-react-latest/static/js/main.b3c8fedf.chunk.js",
+  "main.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/main.b3c8fedf.chunk.js.map",
+  "static/js/1.84e41f61.chunk.js": "https://albertleigh.github.io/openfin-react-latest/static/js/1.84e41f61.chunk.js",
+  "static/js/1.84e41f61.chunk.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/1.84e41f61.chunk.js.map",
   "runtime~main.js": "https://albertleigh.github.io/openfin-react-latest/static/js/runtime~main.251f117c.js",
   "runtime~main.js.map": "https://albertleigh.github.io/openfin-react-latest/static/js/runtime~main.251f117c.js.map",
   "static/media/redux-openfin-deploy.svg": "https://albertleigh.github.io/openfin-react-latest/static/media/redux-openfin-deploy.2f4868db.svg",
@@ -19,8 +19,8 @@
   "static/media/DefaultDeploy.svg": "https://albertleigh.github.io/openfin-react-latest/static/media/DefaultDeploy.b4f0b45f.svg",
   "static/media/StandaloneDeploy.svg": "https://albertleigh.github.io/openfin-react-latest/static/media/StandaloneDeploy.e2b22ba8.svg",
   "static/media/china.svg": "https://albertleigh.github.io/openfin-react-latest/static/media/china.c45d4a8f.svg",
-  "static/css/main.561f9484.chunk.css.map": "https://albertleigh.github.io/openfin-react-latest/static/css/main.561f9484.chunk.css.map",
+  "static/css/main.2e76fb1d.chunk.css.map": "https://albertleigh.github.io/openfin-react-latest/static/css/main.2e76fb1d.chunk.css.map",
   "index.html": "https://albertleigh.github.io/openfin-react-latest/index.html",
-  "precache-manifest.4189e8c5b2fa1258ef42212d0c5fd86d.js": "https://albertleigh.github.io/openfin-react-latest/precache-manifest.4189e8c5b2fa1258ef42212d0c5fd86d.js",
+  "precache-manifest.804e2fa22b7e267f83036641b7b6c5a2.js": "https://albertleigh.github.io/openfin-react-latest/precache-manifest.804e2fa22b7e267f83036641b7b6c5a2.js",
   "service-worker.js": "https://albertleigh.github.io/openfin-react-latest/service-worker.js"
 }
