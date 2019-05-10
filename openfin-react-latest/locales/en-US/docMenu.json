@@ -7,11 +7,24 @@
   "startDevelopers":"For developers",
   "startFaq":"FAQ",
 
-  "scaffolding":"AL-CLI",
+  "starterBase":"Templates",
+  "starterBaseFeatures":"Features",
+  "starterBaseDependencies":"Dependencies",
+  "starterBaseRoutes":"Routes",
+  "starterBaseReuseableComps":"Reusable Comps",
+  "starterBaseConstants":"Config Constants",
+  "starterBaseScripts":"Helper Scripts",
+  "starterBaseContextApis":"Context APIs",
+  "starterBaseWhyTs":"Why typescript?",
+
+  "scaffolding":"openfin-js-cli",
   "scaffoldingInstall":"Installation",
   "scaffoldingGenrPrj":"Generating projects",
   "scaffoldingStandalonePkg":"Standalone Package",
   "scaffoldingGenrTpl":"Generating templates",
+
+  "professional":"Advanced Features",
+  "professionalReduxs":"Redux Structure",
 
   "browserAdaptor":"Browser Adaptor",
   "browserAdaptorInstall":"Install BA",
@@ -19,17 +32,10 @@
 
   "reduxOpenfin":"Redux Openfin",
   "reduxOpenfinInstall":"Install redux-openfin",
-  "reduxOpenfinCommPatt":"Common pattern",
-  "reduxOpenfinSupportApis":"Supported Apis",
+  "reduxOpenfinCommPattern":"Common pattern",
+  "reduxOpenfinSupportedApis":"Supported Apis",
   "reduxOpenfinSharedActions":"Sharing actions",
   "reduxOpenfinSnapDock":"Snap&dock",
-
-  "starterBase":"Starter kit",
-  "starterBaseFeatures":"Features",
-  "starterBaseReduxs":"Reduxs",
-  "starterBaseComps":"Components",
-  "starterBaseRoutes":"Routes",
-  "starterBaseWhyTs":"Why typescript?",
 
   "about":"About",
   "aboutCollaborators":"Collaborators",
