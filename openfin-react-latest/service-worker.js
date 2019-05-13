@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "https://albertleigh.github.io/openfin-react-latest/precache-manifest.dce96ec4dca88c89198159a32c263132.js"
+  "https://albertleigh.github.io/openfin-react-latest/precache-manifest.3bed3995085c4af0752e60efae6e014e.js"
 );
 
 self.addEventListener('message', (event) => {
